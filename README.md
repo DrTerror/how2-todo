@@ -4,16 +4,22 @@
 
 ### init+add+remote add
 
-    1. git init
-    1. git add .
-    1. git commit -m "Initial commit"
-    1. <create new github repo>
-    1. <copy url>
-    1. git remote add origin <paste url>
-    1. git push origin master
-    1. <change main to master on github>
+  1. git init
+  1. git add .
+  1. git commit -am "[commit msg]"
+  1. create new github repo <name>
+  1. [copy url]
+  1. git remote add origin [url]
+  1. git push origin master
+  1. [change main to master on github]
+
 
 ### clone
+
+  1. [create new github repo]
+  1. [copy url]
+  1. git clone [url]
+  1. git push origin main
 
 
 ## my repos
